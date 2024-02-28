@@ -13,7 +13,7 @@ In this course, we want to cover the following topics:
 
 ### Colab notebook links
 
-1. Colab Session: PyTorch tensors and automatic differentiation
+1. Colab Session: [Handson: Implement Network](https://colab.research.google.com/drive/1DhSK1868LzNWvdkSLjWCTXlcSCCl7Blo?usp=sharing)
 2. Colab Session: Data loading pipeline
 3. Colab Session: Training loop and learning
 
