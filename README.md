@@ -10,6 +10,12 @@ In this course, we want to cover the following topics:
   - set up data loading
   - implement multiple toy models
   - write the core training loop and watch our network learn :)
+ 
+
+### Demo notebooks
+
+1. [tensor class and automatic differentiation](https://colab.research.google.com/drive/1xfr1Oq5j2nHnI_ZXy3bRXIax03wSwhEM?usp=sharing)
+
 
 ### Colab notebook links
 
