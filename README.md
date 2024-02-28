@@ -14,7 +14,7 @@ In this course, we want to cover the following topics:
 ### Colab notebook links
 
 1. Colab Session: [Handson: Implement Network](https://colab.research.google.com/drive/1DhSK1868LzNWvdkSLjWCTXlcSCCl7Blo?usp=sharing)
-2. Colab Session: Data loading pipeline
+2. Colab Session: [Data set loading and transformation introduction with Fashion MNIST](https://colab.research.google.com/drive/1TA5phLKpm_VPj0RUOlXiOy0UkDnuYXqc?usp=sharing)
 3. Colab Session: Training loop and learning
 
 
