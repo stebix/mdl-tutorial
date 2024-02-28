@@ -11,7 +11,11 @@ In this course, we want to cover the following topics:
   - implement multiple toy models
   - write the core training loop and watch our network learn :)
 
-### Colab notebooks
+### Colab notebook links
+
+1. Colab Session: PyTorch tensors and automatic differentiation
+2. Colab Session: Data loading pipeline
+3. Colab Session: Training loop and learning
 
 
 ### Useful Links and Resources
